@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aa32102-9a95-48fd-872a-149e94abe01f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/BaseErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/ResponseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/exception/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/exception/ApplicationExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/model/RequestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao/ImUserDataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao/mapper/ImUserDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/ImportUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/resp/ImportUserResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/ImUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/impl/ImUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/resources/logback-spring.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\file\Maven\repository" />
+        <option name="mavenHome" value="F:/Software/Maven/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\Software\Maven\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XCZEyV4mTDclBXNmzaMVfhXUia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/ideaProject/zero-im-system/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "9bf5b23ab8eaaee8ce4942201631b999"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\java\cn\zeroeden\im\service\user\dao" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\resources" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java\cn\zeroeden\im\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zero-im-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zeroeden.im.service.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa32102-9a95-48fd-872a-149e94abe01f" name="Changes" comment="" />
+      <created>1698134914753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698134914753</updated>
+      <workItem from="1698134916463" duration="739000" />
+      <workItem from="1698135739874" duration="129000" />
+      <workItem from="1698136782045" duration="196000" />
+      <workItem from="1698136992194" duration="153000" />
+      <workItem from="1698137219237" duration="2247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
