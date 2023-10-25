@@ -1,7 +1,6 @@
 package cn.zeroeden.im.common;
 
 import cn.zeroeden.im.common.exception.ApplicationExceptionEnum;
-import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @Builder
-@AllArgsConstructor
+
 @NoArgsConstructor
 public class ResponseVO<T> {
 
@@ -62,5 +61,10 @@ public class ResponseVO<T> {
         this.data = data;
         return this;
     }
-    
+
+    public ResponseVO(int code, String msg, T data) {
+        this.code = code;
+        this.msg = msg;
+        this.data = data;
+    }
 }

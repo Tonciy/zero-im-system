@@ -5,30 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aa32102-9a95-48fd-872a-149e94abe01f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/BaseErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/ResponseVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/exception/ApplicationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/exception/ApplicationExceptionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/model/RequestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao/ImUserDataEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao/mapper/ImUserDataMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/ImportUserReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/resp/ImportUserResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/ImUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/impl/ImUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-10-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/enums/DelFlagEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/enums/UserErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/controller/ImUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/controller/ImUserDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/DeleteUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/GetUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/GetUserSequenceReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/ModifyUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/resp/GetUserInfoResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/ResponseVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/zero-im-common/src/main/java/cn/zeroeden/im/common/ResponseVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/ImportUserReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req/ImportUserReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/ImUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/ImUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/impl/ImUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zero-im-service/src/main/java/cn/zeroeden/im/service/user/service/impl/ImUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zero-im-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zero-im-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,23 +65,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/ideaProject/zero-im-system/zero-im-service/src/main/java/cn/zeroeden/im/service/user/dao",
+    "last_opened_file_path": "D:/ideaProject/zero-im-system/zero-im-service/src/main/java/cn/zeroeden/im/service/user/model/req",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "File.Encoding",
-    "spring.configuration.checksum": "9bf5b23ab8eaaee8ce4942201631b999"
+    "spring.configuration.checksum": "47dd32829909d5cf4291fd163800bf81"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\java\cn\zeroeden\im\service\user\dao" />
-      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\resources" />
-      <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java\cn\zeroeden\im\common" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\java\cn\zeroeden\im\service\user\model\req" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\java\cn\zeroeden\im\service\user\model\resp" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java\cn\zeroeden\im\common\enums" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java\cn\zeroeden\im\common\enum" />
+      <recent name="D:\ideaProject\zero-im-system\zero-im-service\src\main\java\cn\zeroeden\im\service\user" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ideaProject\zero-im-system\zero-im-common\src\main\java" />
@@ -113,8 +115,18 @@
       <workItem from="1698135739874" duration="129000" />
       <workItem from="1698136782045" duration="196000" />
       <workItem from="1698136992194" duration="153000" />
-      <workItem from="1698137219237" duration="2247000" />
+      <workItem from="1698137219237" duration="2407000" />
+      <workItem from="1698236086553" duration="2621000" />
+      <workItem from="1698238778833" duration="3002000" />
     </task>
+    <task id="LOCAL-00001" summary="[init]">
+      <created>1698139599068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698139599069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[init]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[init]" />
   </component>
 </project>
