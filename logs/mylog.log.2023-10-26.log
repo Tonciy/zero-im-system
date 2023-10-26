@@ -1,0 +1,40 @@
+2023-10-26 10:37:17 -Starting Application on Zero with PID 5488 (D:\ideaProject\zero-im-system\zero-im-service\target\classes started by Ze'ro in D:\ideaProject\zero-im-system)
+2023-10-26 10:37:17 -The following profiles are active: dev
+2023-10-26 10:37:18 -Tomcat initialized with port(s): 8989 (http)
+2023-10-26 10:37:18 -Initializing ProtocolHandler ["http-nio-8989"]
+2023-10-26 10:37:18 -Starting service [Tomcat]
+2023-10-26 10:37:18 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2023-10-26 10:37:18 -Initializing Spring embedded WebApplicationContext
+2023-10-26 10:37:18 -Root WebApplicationContext: initialization completed in 878 ms
+2023-10-26 10:37:19 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-26 10:37:19 -Starting ProtocolHandler ["http-nio-8989"]
+2023-10-26 10:37:19 -Tomcat started on port(s): 8989 (http) with context path ''
+2023-10-26 10:37:19 -Started Application in 2.63 seconds (JVM running for 4.205)
+2023-10-26 10:39:29 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-26 10:39:29 -Initializing Servlet 'dispatcherServlet'
+2023-10-26 10:39:29 -Completed initialization in 5 ms
+2023-10-26 10:39:30 -HikariPool-1 - Starting...
+2023-10-26 10:39:30 -HikariPool-1 - Start completed.
+2023-10-26 10:59:59 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-26 10:59:59 -HikariPool-1 - Shutdown initiated...
+2023-10-26 10:59:59 -HikariPool-1 - Shutdown completed.
+2023-10-26 15:33:10 -Starting Application on Zero with PID 18280 (D:\ideaProject\zero-im-system\zero-im-service\target\classes started by Ze'ro in D:\ideaProject\zero-im-system)
+2023-10-26 15:33:10 -The following profiles are active: dev
+2023-10-26 15:33:11 -Tomcat initialized with port(s): 8989 (http)
+2023-10-26 15:33:11 -Initializing ProtocolHandler ["http-nio-8989"]
+2023-10-26 15:33:11 -Starting service [Tomcat]
+2023-10-26 15:33:11 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2023-10-26 15:33:11 -Initializing Spring embedded WebApplicationContext
+2023-10-26 15:33:11 -Root WebApplicationContext: initialization completed in 853 ms
+2023-10-26 15:33:12 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-10-26 15:33:12 -Starting ProtocolHandler ["http-nio-8989"]
+2023-10-26 15:33:12 -Tomcat started on port(s): 8989 (http) with context path ''
+2023-10-26 15:33:12 -Started Application in 2.647 seconds (JVM running for 4.577)
+2023-10-26 15:34:57 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-26 15:34:57 -Initializing Servlet 'dispatcherServlet'
+2023-10-26 15:34:57 -Completed initialization in 4 ms
+2023-10-26 15:34:58 -HikariPool-1 - Starting...
+2023-10-26 15:34:58 -HikariPool-1 - Start completed.
+2023-10-26 15:39:50 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-10-26 15:39:50 -HikariPool-1 - Shutdown initiated...
+2023-10-26 15:39:50 -HikariPool-1 - Shutdown completed.
